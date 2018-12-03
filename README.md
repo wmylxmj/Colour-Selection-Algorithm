@@ -7,6 +7,8 @@
 - matplotlib
 - tkinter
 - sklearn
+- operator
+- PIL
 ### 思路
 - 1 用基于密度的聚类算法DBSCAN将图片中的像素聚为色块
 - 2 用K-均值聚类找到色块的聚类中心
