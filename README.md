@@ -1,6 +1,6 @@
 # Colour-Selection-Algorithm
 同色选取算法（外面接的项目）——2018-11-27
-### 更新至version10.py
+### 更新至version11.py
 ### 库的选用：
 - opencv
 - numpy
