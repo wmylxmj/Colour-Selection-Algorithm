@@ -15,3 +15,6 @@
 - 3 用K-近邻算法找出最接近的标准色
 # Demo:
 ![](images/5.jpg)
+![](images/6.jpg)
+![](images/7.jpg)
+![](images/8.jpg)
